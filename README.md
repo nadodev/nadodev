@@ -1,16 +1,26 @@
-### Hi there 👋
+<img width="auto" src="http://github.com/nadodev.png">
+*Olá meu nome é Leonardo Geja 👋
 
-<!--
-**nadodev/nadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: Sobre mim
+- 🖥 Front End Developer
+- 🎓 Autoditada (Amo estudar e Ler)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-leonardogeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-geja-000a34201)](https://www.linkedin.com/in/leonardo-geja-000a34201) [![Hotmail Badge](https://img.shields.io/badge/-nadojba@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadojba@hotmail.com)](mailto:nadojba@hotmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+
+
+## :computer: Tecnologias que eu gosto.
+* Javascript
+* Php
+* Mysql
+* Html
+* Css
+* Sass
+
+## 📅 Hobbies
+- Resolver Problemas Programando.
+- Assistir Filmes e videos.
+- Ler muito.
+- Estudar
+- etc.
