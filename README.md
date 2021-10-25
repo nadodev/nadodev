@@ -1,4 +1,4 @@
-<img width="auto" src="http://github.com/nadodev.png">
+<!--img width="auto" src="http://github.com/nadodev.png"-->
 *Olá meu nome é Leonardo Geja 👋
 
 ## :book: Sobre mim
