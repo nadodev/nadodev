@@ -18,6 +18,16 @@
 * Css
 * Sass
 
+## :computer: Oque eu estudo no momento
+* React Js
+* Node js
+* Aws
+* Docker
+* Sass
+* Next js
+* Typescript
+
+
 ## 📅 Hobbies
 - Resolver Problemas Programando.
 - Assistir Filmes e videos.
