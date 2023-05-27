@@ -17,6 +17,9 @@
 * Html
 * Css
 * Sass
+* typescript
+* reactjs
+* nextjs
 
 ## :computer: Oque eu estudo no momento
 * React Js
@@ -26,6 +29,7 @@
 * Sass
 * Next js
 * Typescript
+* nestjs
 
 
 ## 📅 Hobbies
