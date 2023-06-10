@@ -13,6 +13,12 @@
 ## :computer: Tecnologias que eu gosto.
 * Javascript
 * Php
+* Laravel
+* mysql
+* mariadb
+* mongodb
+* postgress
+* prisma
 * Mysql
 * Html
 * Css
