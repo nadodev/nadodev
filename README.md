@@ -19,7 +19,6 @@
 * mongodb
 * postgress
 * prisma
-* Mysql
 * Html
 * Css
 * Sass
