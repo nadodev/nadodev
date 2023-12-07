@@ -1,4 +1,3 @@
-<img height="100" width="auto" src="http://github.com/nadodev.png"><br>
 Olá meu nome é Leonardo Geja 👋 <br/>
 Apaixonado por programação, atualmente sou desenvolvedor Fullstack, mais focado em php e javascript.
 
