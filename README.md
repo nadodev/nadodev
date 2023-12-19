@@ -4,7 +4,7 @@ Apaixonado por programação, atualmente sou desenvolvedor Fullstack, mais focad
 
 ## :book: Sobre mim
 - 🖥 Fullstack Developer
-- 🎓 Autoditada (Amo estudar e Ler)
+- 🎓 Autoditada
 
 [![Linkedin Badge](https://img.shields.io/badge/-leonardogeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-geja-000a34201)](https://www.linkedin.com/in/leonardo-geja-000a34201) [![Hotmail Badge](https://img.shields.io/badge/-nadojba@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadojba@hotmail.com)](mailto:nadojba@hotmail.com) 
 [![like](https://img.shields.io/badge/Acesse%20Meu-%20Site-FFDD67.svg?style=flat-square)](https://www.leonardogeja.com.br) 
