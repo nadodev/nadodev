@@ -16,6 +16,7 @@ Apaixonado por programação, atualmente sou desenvolvedor Fullstack, mais focad
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -30,6 +31,7 @@ Apaixonado por programação, atualmente sou desenvolvedor Fullstack, mais focad
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://th.bing.com/th/id/OIP.6TYFrw8BnMjUMhGrJqTArAHaFU?rs=1&pid=ImgDetMain"></code>
 <code><img height="30" src="https://th.bing.com/th/id/OIP.I01XWIFpgxybreqPafArigHaHY?rs=1&pid=ImgDetMain"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png"></code>
 
 
 ## 📅 Hobbies
