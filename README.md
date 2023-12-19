@@ -16,7 +16,6 @@ Apaixonado por programação, atualmente sou desenvolvedor Fullstack, mais focad
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/9b74122cee0058e9bc59b360be70c216de35c16f/68747470733a2f2f7765626173736574732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6d6f6e676f64622d6c6f676f2d7267622d6a36773237316731786e2e6a7067"/></code>
