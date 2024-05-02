@@ -1,13 +1,16 @@
 
 
-## Hi there I'm Leonardo Geja
-### I'm a Front-end Engineer based in Brazil
+## Olá meu nome é Leonardo Geja
+### Eu sou desenvolvedor Frontend e moro no Brasil
 
-- 🏢 I'm currently working at **[StudioAlpha](http://www.studioalpha.com.br).**
-- ⚙️ I use daily: `javascrit`, `css`, `html`, `php`
-- 🌱 Learning all about **Front End responsive and acessibility**
+- 🏢 Atualmente estou trabalhando na **[StudioAlpha](http://www.studioalpha.com.br).**
+- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`
+- 🌱Estou estudando tudo sobre  **Front End responsivo e acessibilidade**
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Pode me encontrar nas redes abaixo.
 &nbsp; &nbsp; &nbsp;
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/leonardo_geja)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardogeja/)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
