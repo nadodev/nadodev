@@ -13,4 +13,4 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardogeja/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,typescript,java,spring,mysql,postgres)](https://skillicons.dev)
