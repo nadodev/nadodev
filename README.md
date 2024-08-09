@@ -5,7 +5,7 @@
 
 - 🏢 Atualmente estou trabalhando na **[StudioAlpha](http://www.studioalpha.com.br).**
 - ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`
-- 🌱Estou estudando tudo sobre  **Front End responsivo e acessibilidade**
+- 🌱Estou estudando tudo sobre  **JAVA, Spring boot End  Clean Architecture**
 
 ### 🤝🏻 Pode me encontrar nas redes abaixo.
 &nbsp; &nbsp; &nbsp;
