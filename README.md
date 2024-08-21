@@ -1,7 +1,7 @@
 
 
 ## Olá meu nome é Leonardo Geja
-### Eu sou desenvolvedor Frontend e moro no Brasil
+### Eu sou desenvolvedor Fullstack
 
 - 🏢 Atualmente estou trabalhando na **[StudioAlpha](http://www.studioalpha.com.br).**
 - ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`
