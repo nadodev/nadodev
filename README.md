@@ -4,7 +4,7 @@
 ### Eu sou desenvolvedor Fullstack
 
 - 🏢 Atualmente estou trabalhando na **[StudioAlpha](http://www.studioalpha.com.br).**
-- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`
+- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`, `java`, `spring boot`
 - 🌱Estou estudando tudo sobre  **JAVA, Spring boot End  Clean Architecture**
 
 ### 🤝🏻 Pode me encontrar nas redes abaixo.
