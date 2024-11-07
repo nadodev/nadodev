@@ -3,9 +3,9 @@
 ## Olá meu nome é Leonardo Geja
 ### Eu sou desenvolvedor Fullstack
 
-- 🏢 Atualmente estou trabalhando na **[StudioAlpha](http://www.studioalpha.com.br).**
-- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `php`, `java`, `spring boot`
-- 🌱Estou estudando tudo sobre  **JAVA, Spring boot End  Clean Architecture**
+- 🏢 Atualmente estou trabalhando na **[Unoesc Joaçaba](https://www.unoesc.edu.br/).**
+- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `java`, `spring boot`, `Oracle`
+- 🌱Estou estudando tudo sobre  **JAVA, Spring boot End  Clean Architecture e todo seu ecosistema**
 
 ### 🤝🏻 Pode me encontrar nas redes abaixo.
 &nbsp; &nbsp; &nbsp;
