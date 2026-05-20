@@ -4,8 +4,8 @@
 ### Eu sou desenvolvedor Fullstack
 
 - 🏢 Atualmente estou trabalhando na **[Unoesc Joaçaba](https://www.unoesc.edu.br/).**
-- ⚙️ No dia a dia eu uso : `javascrit`, `css`, `html`, `java`, `spring boot`, `Oracle`
-- 🌱Estou estudando tudo sobre  **JAVA, Spring boot End  Clean Architecture e todo seu ecosistema**
+- ⚙️ No dia a dia eu uso : `javascrit`, `Reactjs`, `Nextjs`, `GO`, `PHP`, `Laravel`
+- 🌱Estou estudando tudo sobre  **GO, Laravel End  Clean Architecture e todo seu ecosistema**
 
 ### 🤝🏻 Pode me encontrar nas redes abaixo.
 &nbsp; &nbsp; &nbsp;
@@ -13,4 +13,4 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardogeja/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,typescript,laravel,php,java,spring,maven,mysql,postgres,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,laravel,php,mysql,postgres,golang)](https://skillicons.dev)
